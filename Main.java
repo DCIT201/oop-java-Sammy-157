@@ -4,7 +4,7 @@ public class Main {
 
         // Create vehicles
         Car car = new Car("CAR001", "Toyota Camry spider" , 30.0);
-        Truck truck = new Truck(50.0, true, 10.0, "TRK001", "Benz-c300", 40.0);
+        Truck truck = new Truck(50.0, true, 10.0, "TRK001", "Toyota Hilux", 40.0);
         Motorcycle motorcycle = new Motorcycle("MOTO001", "Yamaha", 20.0);
 
         // Add vehicles to the agency fleet
